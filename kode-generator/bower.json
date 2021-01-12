@@ -1,0 +1,29 @@
+{
+  "name": "kode-generator",
+  "description": "Kode Voucer Generator",
+  "main": "kode-voucher.js",
+  "authors": [
+    "qvedroid"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "voucher",
+    "coupon",
+    "discount",
+    "gift",
+    "card",
+    "code",
+    "generator"
+  ],
+  "homepage": "https://github.com/qvedroid/kode-generator",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
