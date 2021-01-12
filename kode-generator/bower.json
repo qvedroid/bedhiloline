@@ -1,6 +1,6 @@
 {
   "name": "kode-generator",
-  "description": "Kode Voucer Generator",
+  "description": "Kode voucher Generator",
   "main": "kode-voucher.js",
   "authors": [
     "qvedroid"
