@@ -1,4 +1,4 @@
-var kode_voucher = require('../kode_voucher.js');
+var kode_voucher = require('https://raw.githack.com/qvedroid/bedhiloline/main/kode-generator/kode-voucher.js');
 
 describe('kode_voucher', function(){
 
